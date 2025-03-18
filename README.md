@@ -1,9 +1,9 @@
 Este proyecto es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 ## Funcionalidades
-Agregar nombres a la lista.  
-Mostrar la lista de participantes.  
-Sortear un nombre aleatoriamente.  
-Reiniciar la lista después del sorteo.
+-Agregar nombres a la lista.  
+-Mostrar la lista de participantes.  
+-Sortear un nombre aleatoriamente.  
+-Reiniciar la lista después del sorteo.
 
 ---
 
@@ -19,5 +19,5 @@ Al dar click en 'Añadir' SIN haber añadido un nombre nos sale el sig mensaje:
 ![image](https://github.com/user-attachments/assets/6c48e3dc-144d-45ab-9271-26639acb076a)
 
 ##  **Cómo ejecutar el proyecto**
-1. *Descarga o clona este repositorio:*
+1. Descarga o clona este repositorio.
 2. Abre el archivo index.html en tu navegador.  
